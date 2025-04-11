@@ -1,0 +1,201 @@
+case_id,customer_id,issue_category,issue_severity,resolution_status,customer_feedback,satisfaction_score
+1,1148,Technical,Low,Resolved,Conference health do be campaign soldier.,2
+2,1778,Technical,Low,Resolved,Staff about effect economic trouble five interview year.,1
+3,1480,Technical,High,Escalated,No down matter must affect bring.,6
+4,1695,Billing,Medium,Pending,True window way use read interview.,6
+5,1717,Billing,High,Resolved,Family evidence address environmental film social color.,6
+6,1041,General Inquiry,High,Pending,Visit join fill management box could goal.,2
+7,1230,General Inquiry,Low,Pending,Ground oil morning friend Democrat heavy if.,1
+8,1178,Billing,Medium,Resolved,Major apply ready enough after recent.,10
+9,1318,Technical,Low,Pending,Her network never sister accept.,5
+10,1141,General Inquiry,Low,Resolved,Hundred month institution body risk loss green.,1
+11,1236,Billing,Low,Pending,Campaign information play least maybe language explain.,10
+12,1644,Billing,Low,Pending,Realize no lose challenge budget on reach.,6
+13,1323,Billing,Low,Pending,Difference necessary believe party class today.,5
+14,1496,General Inquiry,High,Resolved,Couple himself possible party cell different.,8
+15,1565,Billing,Medium,Resolved,Project series charge huge.,5
+16,1700,Billing,Low,Escalated,Half read million discover.,4
+17,1984,Technical,Medium,Escalated,From school Mrs.,4
+18,1320,General Inquiry,Low,Escalated,Hard human ready.,7
+19,1126,General Inquiry,Medium,Pending,Simple whether by policy suddenly Mrs war believe.,4
+20,1969,Technical,High,Resolved,Serve interesting dark the.,3
+21,1803,Billing,Low,Escalated,During traditional similar right star since new may.,7
+22,1282,Billing,Medium,Resolved,System TV ten carry shake.,1
+23,1458,Technical,Medium,Escalated,Water ball evening back stay.,7
+24,1781,General Inquiry,Low,Escalated,Attack admit approach control.,8
+25,1641,Technical,High,Pending,Investment minute social spend two.,7
+26,1700,Technical,Low,Resolved,Race discover yeah job model.,6
+27,1622,Billing,High,Resolved,Dream reflect woman.,2
+28,1318,General Inquiry,Medium,Pending,Foreign believe move situation according fly many order.,10
+29,1383,Billing,High,Resolved,Deep study green tough take.,2
+30,1034,Billing,Low,Pending,Road can best share second last front anyone.,2
+31,1592,General Inquiry,Medium,Resolved,Up one officer.,8
+32,1309,General Inquiry,Medium,Pending,Future series between meeting science resource.,5
+33,1246,General Inquiry,Low,Escalated,Serve news budget short of mouth.,4
+34,1242,Billing,Low,Resolved,Happen various beat interest.,4
+35,1273,Technical,Medium,Pending,What simply Democrat happy.,8
+36,1314,Billing,Medium,Resolved,Check chance central you must respond morning sing.,9
+37,1846,Technical,Medium,Escalated,Yeah bill these event glass.,1
+38,1854,Billing,Medium,Resolved,Source improve factor country expect tree.,3
+39,1443,Billing,Low,Resolved,Middle cut federal offer stay up.,5
+40,1424,General Inquiry,Low,Pending,Detail maybe easy once letter.,1
+41,1041,General Inquiry,High,Escalated,Not would traditional fast him cup.,2
+42,1751,Billing,Medium,Escalated,Eye investment heart hard behavior right situation.,3
+43,1095,Technical,Medium,Escalated,Least international pull eight a practice raise.,4
+44,1876,Technical,Low,Resolved,The moment world least.,1
+45,1181,General Inquiry,Medium,Pending,Character set assume.,5
+46,1196,Billing,Low,Pending,Perform figure nearly young join much agreement.,9
+47,1625,General Inquiry,Low,Pending,Outside arrive over Republican so deal.,6
+48,1981,Technical,High,Pending,So team large situation focus.,2
+49,1320,General Inquiry,Low,Pending,Ten challenge plan born protect account think may.,4
+50,1546,Technical,Low,Escalated,Tend ago try treat government.,2
+51,1121,Technical,High,Resolved,But prepare foot type south deal.,3
+52,1535,Billing,Low,Escalated,Me use behind hot visit American policy.,8
+53,1699,Technical,High,Escalated,Have tough activity traditional head.,6
+54,1223,Technical,Low,Resolved,Name at water million left study two.,2
+55,1379,Technical,Low,Resolved,Store issue begin reality time morning today.,10
+56,1499,Billing,High,Pending,Alone garden oil front through reveal.,2
+57,1768,General Inquiry,Medium,Resolved,But same cup white decide method number.,7
+58,1932,General Inquiry,High,Escalated,Into trouble middle score recent event together.,2
+59,1121,Technical,Medium,Resolved,Rest knowledge official south table son.,10
+60,1697,Billing,Low,Pending,Condition task value specific.,5
+61,1173,Technical,Low,Resolved,Party point give attention religious share.,1
+62,1244,Technical,Low,Pending,Fire hope management.,8
+63,1797,Billing,Medium,Pending,Product thousand try without customer.,10
+64,1245,Billing,High,Escalated,Police model white.,6
+65,1284,Billing,Medium,Resolved,Agreement center draw we report leave field.,5
+66,1889,Billing,High,Escalated,Inside state mind force perform.,8
+67,1066,Billing,Low,Resolved,Difference across vote heart very pull.,5
+68,1991,Technical,Medium,Pending,Message true high true middle.,8
+69,1260,General Inquiry,Low,Resolved,Again idea organization job experience help.,1
+70,1560,Billing,Low,Resolved,Participant fear act heart street.,1
+71,1672,General Inquiry,Medium,Resolved,Check plan only tonight.,5
+72,1191,General Inquiry,Low,Resolved,Short marriage body rich size.,3
+73,1336,General Inquiry,High,Resolved,Bit ability behavior.,2
+74,1845,Technical,Medium,Escalated,Election plant through watch set vote.,9
+75,1297,Billing,Medium,Pending,Pm education play hit political theory.,9
+76,1648,Technical,Medium,Escalated,Hair while into up year my.,10
+77,1935,General Inquiry,Low,Escalated,Reduce reduce order allow look.,2
+78,1521,Billing,High,Escalated,Have fish military admit.,3
+79,1242,General Inquiry,Medium,Pending,Himself suffer throughout however during.,5
+80,1028,General Inquiry,High,Pending,Off tend realize address form hotel.,3
+81,1452,Billing,High,Pending,Safe relate most financial beautiful become message.,4
+82,1461,Technical,Medium,Pending,Age scene guy they including box same.,1
+83,1449,Technical,High,Escalated,Animal picture our center method early certainly floor.,7
+84,1279,Technical,High,Escalated,Speech be charge apply.,10
+85,1395,General Inquiry,High,Escalated,Group book produce contain.,4
+86,1137,Billing,High,Escalated,Space door card.,5
+87,1105,Billing,High,Pending,Upon read section anything.,8
+88,1970,General Inquiry,High,Pending,Special family third hot say friend debate.,4
+89,1140,General Inquiry,Low,Escalated,Either allow seven those low surface seek.,2
+90,1279,General Inquiry,Low,Pending,One seat serve claim.,8
+91,1613,General Inquiry,Low,Escalated,Opportunity property some put seem.,2
+92,1360,Billing,Low,Pending,Lawyer election stuff job purpose enough where.,2
+93,1590,General Inquiry,High,Resolved,Your generation manager once person threat end action.,5
+94,1807,Technical,Low,Resolved,Policy several far doctor talk different sport.,4
+95,1451,Billing,Low,Resolved,Task something responsibility computer manage.,10
+96,1899,Billing,High,Escalated,Much word time add station.,10
+97,1593,Billing,Low,Pending,Myself catch entire dinner mind surface strategy.,10
+98,1834,Billing,Medium,Resolved,Capital last sign Republican happen natural collection.,5
+99,1791,Billing,Medium,Resolved,Enough successful central raise.,10
+100,1885,Technical,Low,Escalated,Computer develop event agree miss child.,6
+101,1382,Billing,Low,Pending,Live table win themselves nearly.,7
+102,1579,Billing,Medium,Pending,Since sport face perhaps.,5
+103,1486,Billing,Low,Pending,Speak his light less rule base recent.,5
+104,1956,Technical,Low,Escalated,Health walk write.,6
+105,1533,Technical,High,Escalated,Building remain minute choice.,5
+106,1192,Billing,Low,Escalated,Likely why generation event mouth available.,1
+107,1798,General Inquiry,Low,Pending,Such talk response.,6
+108,1300,Technical,High,Escalated,Trouble give recently which local.,6
+109,1411,Billing,Medium,Resolved,Personal space trip.,5
+110,1943,Technical,Low,Pending,First might significant into.,4
+111,1568,Billing,Low,Escalated,Pm music learn well meet bad energy.,8
+112,1987,Billing,Medium,Escalated,Little change very far whole blue.,10
+113,1671,Billing,High,Pending,Age wish business answer.,3
+114,1645,Technical,Medium,Pending,Picture inside development someone project increase dream.,9
+115,1230,Technical,Low,Pending,Country defense ball industry.,4
+116,1665,Billing,Low,Resolved,According past art represent move.,4
+117,1334,General Inquiry,High,Escalated,Why its evening summer give require.,4
+118,1919,General Inquiry,Low,Pending,Run modern plan establish.,3
+119,1216,Technical,Medium,Escalated,Wear at crime threat.,10
+120,1932,Technical,High,Resolved,Information expect wife catch hard toward involve.,6
+121,1972,General Inquiry,Medium,Pending,Between son early front.,4
+122,1410,General Inquiry,High,Escalated,Notice could ready special section suffer.,7
+123,1245,Technical,Medium,Resolved,Picture when agreement stock.,1
+124,1115,Billing,Medium,Escalated,A send sometimes production war view tax.,1
+125,1267,Technical,Low,Escalated,Food will buy she.,1
+126,1671,Technical,Medium,Resolved,According present cover while case no.,3
+127,1922,Billing,Medium,Escalated,Media top close collection.,5
+128,1598,General Inquiry,High,Pending,Far court author avoid surface.,6
+129,1525,General Inquiry,Medium,Escalated,Poor thank occur PM particular strong still.,10
+130,1790,Billing,Medium,Escalated,Remember mind manage past right anything figure.,3
+131,1221,Billing,High,Pending,Heart through tonight article actually laugh.,8
+132,1735,Billing,Medium,Resolved,Action official inside low example much character.,8
+133,1486,Technical,Medium,Escalated,Mouth on boy blue.,8
+134,1913,Billing,Low,Resolved,Arrive four staff develop.,5
+135,1126,Technical,Medium,Resolved,So couple by bit all ok.,3
+136,1215,General Inquiry,Low,Pending,Character wrong song wonder.,6
+137,1454,Technical,High,Resolved,Have feeling good able.,10
+138,1405,Technical,Medium,Escalated,Something now song history kitchen huge million.,3
+139,1665,Billing,Medium,Resolved,Pretty rich relationship out difference that.,3
+140,1056,Technical,Medium,Pending,Culture fly past travel despite.,10
+141,1349,Technical,High,Resolved,Important something memory else huge mention.,6
+142,1634,Technical,Medium,Resolved,Including suffer paper.,10
+143,1622,General Inquiry,High,Escalated,Crime must fish prevent national.,1
+144,1222,Billing,Low,Pending,Feel high challenge organization any.,3
+145,1681,General Inquiry,Medium,Pending,Reason four religious television news.,9
+146,1029,Billing,Medium,Escalated,Vote push country can as.,5
+147,1342,General Inquiry,High,Pending,By ability employee.,4
+148,1621,General Inquiry,High,Escalated,Still set teach moment concern six.,7
+149,1034,General Inquiry,Medium,Escalated,Agree occur face lead.,2
+150,1292,Billing,Low,Pending,Purpose training outside just often federal.,8
+151,1510,General Inquiry,Low,Pending,Everyone develop position measure finish.,4
+152,1695,Billing,Medium,Pending,Its of cover ever product per fight cup.,7
+153,1758,Billing,High,Pending,Read marriage institution recently though good.,8
+154,1664,Billing,Medium,Resolved,Hold look effort because.,3
+155,1883,General Inquiry,Medium,Pending,Sing church mean practice decade.,10
+156,1941,Billing,Low,Resolved,Student return year child this Mr garden write.,7
+157,1894,Billing,Medium,Pending,Court show chance away thousand box.,5
+158,1605,Technical,High,Escalated,Push skin learn which word view executive news.,10
+159,1676,Technical,Low,Pending,Forward night among usually itself side.,5
+160,1501,Technical,High,Resolved,Know position because month trouble project provide.,1
+161,1150,Technical,Low,Resolved,Down culture how side term right Republican.,10
+162,1967,Technical,Low,Escalated,Garden voice board gun nice reality pick.,8
+163,1807,Technical,Medium,Resolved,Experience approach we great both.,5
+164,1039,Technical,High,Resolved,Research finish window pretty whom rest.,7
+165,1571,General Inquiry,Medium,Escalated,Executive police certain employee toward.,10
+166,1751,General Inquiry,Low,Resolved,Affect pay run natural.,4
+167,1141,Billing,High,Pending,Defense owner ok smile bring.,3
+168,1709,General Inquiry,Low,Resolved,Against citizen site build ask.,9
+169,1514,General Inquiry,Medium,Resolved,She general community political notice.,9
+170,1243,Billing,Low,Escalated,Magazine wait notice establish treatment measure through answer.,10
+171,1412,Technical,Low,Escalated,Thought exactly stuff firm.,9
+172,1964,Technical,High,Pending,Cut other new sound.,9
+173,1525,Billing,Low,Pending,Across sell job several about common think.,7
+174,1986,General Inquiry,Medium,Escalated,Laugh where Mr free question new friend matter.,2
+175,1424,Billing,Low,Resolved,Glass kitchen public.,2
+176,1750,Billing,High,Escalated,Hour practice them throughout.,9
+177,1649,General Inquiry,Medium,Pending,Piece company result direction common.,9
+178,1253,Technical,High,Pending,Stop third whom bed.,3
+179,1499,Billing,Low,Resolved,Worker suggest certainly.,9
+180,1384,Technical,Low,Resolved,Choose soldier weight region international drive.,5
+181,1427,Billing,Low,Escalated,Begin sometimes laugh eight manager official.,10
+182,1566,General Inquiry,Medium,Escalated,Represent contain blue sound next computer.,7
+183,1511,Technical,Medium,Resolved,Vote tonight various point responsibility prove long.,6
+184,1360,Technical,Low,Escalated,Draw force top page huge.,7
+185,1403,General Inquiry,Low,Pending,Pattern this according southern have tax.,1
+186,1610,Billing,Low,Pending,Different hundred candidate.,2
+187,1639,Billing,High,Resolved,Want collection might government sign.,6
+188,1781,General Inquiry,Medium,Escalated,Dinner instead explain left media.,9
+189,1574,Technical,Medium,Escalated,Interest change local quality Mrs.,3
+190,1949,Billing,Medium,Resolved,Run good full try.,8
+191,1301,General Inquiry,Low,Pending,Possible indicate eat create other.,3
+192,1966,Billing,High,Resolved,Allow again rest quite.,5
+193,1530,Billing,High,Resolved,Boy the future off rest watch still politics.,10
+194,1080,Technical,Medium,Escalated,Authority today tree cold seven.,7
+195,1739,Technical,High,Pending,Value including change.,5
+196,1217,Billing,Low,Escalated,Discussion create face understand which fall soldier financial.,9
+197,1583,Billing,Medium,Escalated,Admit box sit age she beat boy.,2
+198,1046,Technical,High,Resolved,You already five table degree test.,5
+199,1301,Technical,Low,Pending,Pull up he common fight another type.,10
+200,1060,General Inquiry,Low,Resolved,Institution true four box.,7

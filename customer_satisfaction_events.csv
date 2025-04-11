@@ -1,0 +1,595 @@
+case_id,activity,timestamp,actor,channel,sentiment_score,resolution_time
+1,Investigating,2025-01-21 02:57:59,Mary Morris,Chat,-0.66,107
+1,Investigating,2025-01-21 03:12:59,Robert Kelly,Chat,0.83,69
+2,Ticket Opened,2025-04-10 10:29:44,Jillian Braun,Email,-0.01,34
+2,Resolved,2025-04-10 10:44:44,Sierra Franklin,Phone,0.61,16
+3,Ticket Opened,2025-04-04 03:59:47,Christopher Campbell,Phone,0.99,83
+3,Investigating,2025-04-04 04:14:47,Bryan Mason,Email,-0.61,149
+3,Investigating,2025-04-04 04:29:47,Leslie Williams,Phone,0.01,49
+3,Ticket Opened,2025-04-04 04:44:47,Jacob Martin,Phone,-0.34,31
+4,Resolved,2025-03-02 06:52:17,Matthew Shannon,Email,-0.45,6
+4,Investigating,2025-03-02 07:07:17,Angelica Knight,Phone,-0.29,118
+4,Investigating,2025-03-02 07:22:17,Cynthia White,Email,-0.44,13
+4,Investigating,2025-03-02 07:37:17,Jacob White,Chat,-0.97,72
+5,Resolved,2025-02-18 09:12:49,Patricia Mueller,Chat,-0.71,79
+5,Resolved,2025-02-18 09:27:49,John Turner,Chat,-0.01,34
+5,Investigating,2025-02-18 09:42:49,Kevin Thomas,Chat,0.48,83
+5,Investigating,2025-02-18 09:57:49,Renee Hess,Email,0.85,63
+6,Resolved,2025-02-16 11:24:39,Jared Randall,Chat,0.93,107
+6,Investigating,2025-02-16 11:39:39,David Graham,Phone,-0.64,51
+6,Investigating,2025-02-16 11:54:39,Ashley Brown,Email,-0.15,52
+7,Investigating,2025-04-08 22:51:20,Holly Cooper,Email,-0.95,22
+7,Investigating,2025-04-08 23:06:20,Kevin Olsen,Phone,-0.88,10
+8,Resolved,2025-03-14 01:29:11,Alexandra Mclean,Email,-0.05,16
+8,Resolved,2025-03-14 01:44:11,Jamie Cole,Chat,0.61,16
+8,Ticket Opened,2025-03-14 01:59:11,Ann White,Phone,-0.74,172
+9,Resolved,2025-03-25 06:27:03,Kimberly Shelton,Phone,0.32,74
+9,Investigating,2025-03-25 06:42:03,Cynthia Brown,Chat,0.5,78
+10,Ticket Opened,2025-02-04 20:03:39,Anne Hall,Chat,0.04,78
+10,Investigating,2025-02-04 20:18:39,Catherine Patel,Email,-0.17,122
+10,Investigating,2025-02-04 20:33:39,Lauren Roberts,Chat,-0.92,106
+10,Investigating,2025-02-04 20:48:39,Miss Mary Young DVM,Chat,0.14,42
+11,Resolved,2025-03-04 23:29:20,Christine Vargas,Email,0.68,107
+11,Resolved,2025-03-04 23:44:20,John Smith,Email,-0.16,130
+11,Resolved,2025-03-04 23:59:20,Meghan Robertson,Email,0.18,26
+12,Investigating,2025-02-11 23:50:06,Jessica Elliott,Chat,0.19,102
+12,Investigating,2025-02-12 00:05:06,Anthony Anderson,Email,-0.36,30
+12,Ticket Opened,2025-02-12 00:20:06,Jessica Dillon,Chat,-0.32,82
+13,Resolved,2025-03-30 11:00:14,Miguel Saunders,Chat,-0.87,168
+13,Resolved,2025-03-30 11:15:14,Tara Hernandez,Chat,-0.75,131
+14,Investigating,2025-01-17 08:38:03,Jason Farrell,Chat,0.69,36
+14,Ticket Opened,2025-01-17 08:53:03,Joanna Wilson,Email,-0.74,59
+14,Ticket Opened,2025-01-17 09:08:03,Nicholas Combs,Chat,0.53,37
+14,Investigating,2025-01-17 09:23:03,Tracy Duran,Chat,-0.8,81
+15,Ticket Opened,2025-01-10 08:58:41,Jennifer Ross,Chat,-0.79,56
+15,Resolved,2025-01-10 09:13:41,Marilyn Greer,Chat,0.26,142
+16,Resolved,2025-01-05 06:46:53,Sally Mueller,Email,-0.12,63
+16,Ticket Opened,2025-01-05 07:01:53,Cindy Ramos,Chat,0.11,108
+16,Investigating,2025-01-05 07:16:53,Misty Rice,Email,-0.22,44
+17,Ticket Opened,2025-01-05 22:15:38,Rebecca Wilson,Email,0.95,87
+17,Ticket Opened,2025-01-05 22:30:38,Shelly Reyes,Email,-0.56,107
+18,Investigating,2025-01-18 08:57:49,Hannah Sanders,Phone,-0.41,116
+18,Ticket Opened,2025-01-18 09:12:49,Michael Bradshaw,Phone,0.77,64
+18,Investigating,2025-01-18 09:27:49,Brittney Cook,Chat,-0.36,58
+19,Investigating,2025-03-03 19:00:59,Roger Fisher,Chat,-0.02,79
+19,Resolved,2025-03-03 19:15:59,Kenneth Larson,Phone,-0.92,89
+19,Ticket Opened,2025-03-03 19:30:59,Bob Peck,Email,0.98,113
+20,Resolved,2025-01-21 21:18:35,Kelsey Cole,Phone,0.61,86
+20,Ticket Opened,2025-01-21 21:33:35,Erica Evans,Chat,0.49,171
+21,Ticket Opened,2025-03-25 14:53:26,Ricky Gardner,Phone,0.52,83
+21,Resolved,2025-03-25 15:08:26,John Terrell,Chat,-0.49,10
+21,Resolved,2025-03-25 15:23:26,Terry Saunders,Phone,-0.97,43
+22,Ticket Opened,2025-02-15 07:13:15,Ian Torres,Phone,-0.27,112
+22,Investigating,2025-02-15 07:28:15,Richard Munoz,Phone,-0.5,50
+22,Resolved,2025-02-15 07:43:15,Richard Vasquez,Email,-0.7,139
+23,Investigating,2025-01-17 08:03:00,Elizabeth Barker,Chat,-0.04,141
+23,Ticket Opened,2025-01-17 08:18:00,Aimee Kelley,Chat,-0.46,36
+23,Investigating,2025-01-17 08:33:00,Kimberly Johnson,Email,0.95,149
+23,Ticket Opened,2025-01-17 08:48:00,Tracy Robertson,Chat,0.86,145
+24,Ticket Opened,2025-02-18 02:09:03,Emily Williams,Email,-0.73,110
+24,Resolved,2025-02-18 02:24:03,William Taylor,Email,0.9,88
+25,Resolved,2025-01-14 13:22:08,Nicole Roy,Chat,0.76,27
+25,Resolved,2025-01-14 13:37:08,Tiffany Chen,Email,-0.83,151
+25,Resolved,2025-01-14 13:52:08,Heather Turner,Chat,0.27,10
+25,Ticket Opened,2025-01-14 14:07:08,James Munoz,Phone,-0.24,13
+26,Resolved,2025-02-13 01:50:41,Patricia Frazier,Phone,-0.11,141
+26,Ticket Opened,2025-02-13 02:05:41,Jason Smith,Email,-0.69,146
+26,Resolved,2025-02-13 02:20:41,Bryan Sanders,Phone,-0.27,125
+26,Resolved,2025-02-13 02:35:41,Johnny Estrada,Phone,0.58,122
+27,Ticket Opened,2025-03-29 02:23:22,John Davis,Chat,0.83,40
+27,Investigating,2025-03-29 02:38:22,Joseph Perez,Email,0.42,6
+28,Investigating,2025-01-10 16:21:04,Brian Mullins,Chat,0.96,104
+28,Investigating,2025-01-10 16:36:04,Michelle Kramer,Chat,0.85,135
+28,Resolved,2025-01-10 16:51:04,George Tran,Chat,-0.65,174
+29,Investigating,2025-01-02 08:58:16,Karina Martinez,Phone,-0.21,38
+29,Resolved,2025-01-02 09:13:16,Dana Turner,Chat,-0.43,53
+30,Investigating,2025-01-14 13:12:29,Joseph Mclean,Chat,-0.97,82
+30,Ticket Opened,2025-01-14 13:27:29,Brandon Atkinson,Chat,-0.13,31
+30,Ticket Opened,2025-01-14 13:42:29,Micheal Cole,Email,-0.61,147
+30,Investigating,2025-01-14 13:57:29,Ashley Stewart,Email,0.12,94
+31,Investigating,2025-02-01 22:12:40,Christopher Snyder,Phone,-0.32,84
+31,Resolved,2025-02-01 22:27:40,Christian Chen,Chat,-0.32,21
+31,Ticket Opened,2025-02-01 22:42:40,Latasha Horne,Phone,0.12,106
+31,Investigating,2025-02-01 22:57:40,Shannon Lambert,Chat,0.91,155
+32,Ticket Opened,2025-01-08 23:52:34,Denise Perkins,Phone,-0.83,106
+32,Resolved,2025-01-09 00:07:34,Daniel Zavala,Phone,-0.79,145
+32,Resolved,2025-01-09 00:22:34,Kimberly Hardy,Chat,-0.41,110
+33,Investigating,2025-02-28 10:29:58,Brittany Ramirez,Chat,-0.36,40
+33,Ticket Opened,2025-02-28 10:44:58,Frank George,Email,0.26,73
+34,Ticket Opened,2025-01-29 06:20:43,Isaac Smith,Email,-0.86,33
+34,Ticket Opened,2025-01-29 06:35:43,Diana Lee,Phone,0.65,70
+34,Resolved,2025-01-29 06:50:43,Jonathan Martinez,Phone,-0.59,127
+35,Ticket Opened,2025-02-20 18:05:39,Tara Tucker,Email,0.71,160
+35,Ticket Opened,2025-02-20 18:20:39,Donald Turner,Phone,0.29,151
+35,Resolved,2025-02-20 18:35:39,Kerry Steele,Email,0.25,167
+36,Ticket Opened,2025-02-08 18:04:16,David Kirk,Chat,-0.07,114
+36,Investigating,2025-02-08 18:19:16,Tyler Burns,Email,0.28,88
+36,Ticket Opened,2025-02-08 18:34:16,Jody Nicholson,Email,-0.11,145
+37,Resolved,2025-01-26 03:21:47,Jorge Wiley,Chat,0.17,137
+37,Ticket Opened,2025-01-26 03:36:47,Stephen Rodriguez,Chat,-0.27,32
+38,Investigating,2025-02-01 02:46:42,Christina Tyler,Chat,-0.74,115
+38,Ticket Opened,2025-02-01 03:01:42,Sergio Roberts Jr.,Email,0.15,70
+38,Ticket Opened,2025-02-01 03:16:42,Melinda Simmons,Chat,-0.73,176
+38,Resolved,2025-02-01 03:31:42,Kevin Riley,Phone,-0.51,67
+39,Investigating,2025-02-25 21:22:39,Travis Coleman,Chat,-0.59,97
+39,Investigating,2025-02-25 21:37:39,David Smith,Chat,-0.26,101
+40,Ticket Opened,2025-01-16 23:47:45,Madeline Rangel,Phone,-0.88,25
+40,Resolved,2025-01-17 00:02:45,Mark Doyle,Chat,0.94,39
+40,Resolved,2025-01-17 00:17:45,Danielle Lopez,Email,0.88,154
+40,Ticket Opened,2025-01-17 00:32:45,David Patterson,Email,-0.06,44
+41,Investigating,2025-04-08 21:19:29,Levi Morton,Phone,-0.34,149
+41,Ticket Opened,2025-04-08 21:34:29,Lauren Holloway,Email,0.83,137
+41,Resolved,2025-04-08 21:49:29,Sarah Alvarez,Email,-0.78,84
+41,Ticket Opened,2025-04-08 22:04:29,Evan Miller,Chat,-0.3,48
+42,Ticket Opened,2025-01-03 22:16:59,Tammy Hurley,Phone,0.83,57
+42,Resolved,2025-01-03 22:31:59,Daisy Francis,Phone,0.46,124
+43,Investigating,2025-03-27 13:21:38,Nicole Marsh,Chat,-0.97,75
+43,Resolved,2025-03-27 13:36:38,James Best,Chat,-0.85,8
+43,Ticket Opened,2025-03-27 13:51:38,Michele Cooke,Chat,0.53,32
+44,Ticket Opened,2025-02-03 05:34:09,Melanie Stout,Email,-0.56,118
+44,Ticket Opened,2025-02-03 05:49:09,Justin Strong,Chat,-0.72,12
+44,Investigating,2025-02-03 06:04:09,Nicole Bullock,Email,-0.99,167
+45,Investigating,2025-02-10 17:10:34,Michael Nguyen,Chat,-0.58,44
+45,Ticket Opened,2025-02-10 17:25:34,Christine Lee,Chat,0.5,173
+45,Ticket Opened,2025-02-10 17:40:34,Mark Schwartz,Phone,-0.28,112
+46,Investigating,2025-03-28 03:04:42,David Short,Chat,0.96,94
+46,Resolved,2025-03-28 03:19:42,Ryan Thompson,Email,0.72,24
+46,Ticket Opened,2025-03-28 03:34:42,Kathryn Snyder,Chat,0.5,167
+46,Ticket Opened,2025-03-28 03:49:42,Jennifer Leach,Email,0.68,148
+47,Resolved,2025-03-13 02:31:32,Carol Jones,Phone,0.46,110
+47,Resolved,2025-03-13 02:46:32,Anita Mcbride,Chat,-0.99,148
+47,Investigating,2025-03-13 03:01:32,Susan Vazquez,Chat,0.01,58
+48,Investigating,2025-03-15 02:07:32,Joanne Cooley,Chat,-0.39,27
+48,Resolved,2025-03-15 02:22:32,Vanessa Wright DVM,Phone,-0.16,122
+48,Resolved,2025-03-15 02:37:32,Valerie Little,Email,0.06,159
+48,Investigating,2025-03-15 02:52:32,Kayla Foster,Phone,-0.74,159
+49,Investigating,2025-04-05 11:53:29,Samantha Adams,Chat,-0.84,45
+49,Investigating,2025-04-05 12:08:29,Jason Mack,Chat,-0.6,140
+49,Resolved,2025-04-05 12:23:29,Adam Liu,Chat,0.14,161
+50,Investigating,2025-04-06 00:13:56,Stacey Moore,Chat,-0.4,15
+50,Resolved,2025-04-06 00:28:56,Kim Miller,Email,-0.47,39
+51,Ticket Opened,2025-02-03 09:27:28,Jim Hanson,Chat,0.94,63
+51,Ticket Opened,2025-02-03 09:42:28,Anthony Johns,Email,-0.91,105
+51,Investigating,2025-02-03 09:57:28,Brooke Robinson,Chat,0.56,138
+52,Ticket Opened,2025-04-10 08:14:52,Heather Hays,Phone,-0.98,168
+52,Investigating,2025-04-10 08:29:52,Keith Gallegos,Phone,0.02,59
+52,Ticket Opened,2025-04-10 08:44:52,Brandon Ramos,Phone,-0.04,6
+52,Ticket Opened,2025-04-10 08:59:52,Emily Lopez,Chat,-0.78,84
+53,Investigating,2025-03-14 10:26:40,Mary Daniel,Phone,0.82,83
+53,Ticket Opened,2025-03-14 10:41:40,Kim Sanders,Phone,-0.07,170
+54,Resolved,2025-02-12 13:23:18,David Allen,Chat,-0.04,143
+54,Resolved,2025-02-12 13:38:18,Jennifer Mills,Email,-0.98,51
+54,Investigating,2025-02-12 13:53:18,Elizabeth Ramirez,Phone,0.4,139
+55,Investigating,2025-01-02 05:59:39,Brandon Martinez,Phone,0.67,130
+55,Investigating,2025-01-02 06:14:39,Kyle Jones,Phone,0.58,15
+55,Ticket Opened,2025-01-02 06:29:39,Duane Lyons,Chat,0.69,176
+56,Ticket Opened,2025-03-23 20:10:38,Benjamin May,Email,-0.01,99
+56,Investigating,2025-03-23 20:25:38,James Anderson,Email,-0.07,27
+56,Resolved,2025-03-23 20:40:38,Carl Mendez,Chat,-0.02,128
+57,Ticket Opened,2025-01-29 00:18:50,Brittany Dean,Chat,0.71,134
+57,Investigating,2025-01-29 00:33:50,Laura Turner,Chat,0.42,16
+57,Investigating,2025-01-29 00:48:50,Anthony York,Phone,0.57,82
+58,Investigating,2025-01-08 12:17:51,Tammy Rodriguez,Email,0.17,49
+58,Investigating,2025-01-08 12:32:51,Bryan Garza,Phone,0.3,141
+59,Investigating,2025-03-26 08:28:54,Lisa Turner,Chat,-0.65,15
+59,Resolved,2025-03-26 08:43:54,Keith Nixon,Email,-0.17,141
+59,Ticket Opened,2025-03-26 08:58:54,Gregory Hunter,Email,0.01,149
+60,Investigating,2025-01-07 19:40:58,Nicole Miller,Chat,0.52,172
+60,Ticket Opened,2025-01-07 19:55:58,Arthur Hardin DDS,Phone,-0.19,167
+61,Ticket Opened,2025-01-28 05:23:55,Mrs. Caroline Lee,Chat,0.44,78
+61,Investigating,2025-01-28 05:38:55,Kimberly Wright,Phone,-0.12,26
+61,Resolved,2025-01-28 05:53:55,Tammy Ferguson,Phone,0.06,151
+62,Ticket Opened,2025-04-10 14:32:48,Alyssa Moore,Email,-0.96,55
+62,Ticket Opened,2025-04-10 14:47:48,Todd Davenport,Phone,0.1,24
+62,Investigating,2025-04-10 15:02:48,Angie Rose,Email,-0.05,55
+63,Ticket Opened,2025-03-14 02:26:20,Deborah Terry,Phone,-0.98,79
+63,Resolved,2025-03-14 02:41:20,Laura Young,Email,-0.9,175
+63,Ticket Opened,2025-03-14 02:56:20,Robert Johnson,Chat,-0.81,82
+63,Resolved,2025-03-14 03:11:20,Jessica Delgado,Email,0.95,93
+64,Ticket Opened,2025-04-04 14:48:50,Angel Richards,Phone,-0.97,77
+64,Ticket Opened,2025-04-04 15:03:50,Kathryn Lyons,Chat,-0.76,129
+65,Investigating,2025-03-27 17:58:48,Andrew Le,Phone,0.64,84
+65,Investigating,2025-03-27 18:13:48,Steven Velasquez,Email,0.11,97
+65,Resolved,2025-03-27 18:28:48,Lucas Ellis,Chat,0.9,126
+66,Resolved,2025-03-10 10:50:56,Leonard Murphy,Phone,0.96,45
+66,Ticket Opened,2025-03-10 11:05:56,Carrie Perry,Chat,-0.43,79
+67,Resolved,2025-03-05 20:16:18,Danielle Gibson,Phone,-0.16,35
+67,Resolved,2025-03-05 20:31:18,Janet Davis,Chat,-0.97,30
+68,Resolved,2025-02-04 21:34:33,Jared Ward,Chat,0.35,177
+68,Ticket Opened,2025-02-04 21:49:33,Christopher Bernard,Phone,0.85,177
+68,Resolved,2025-02-04 22:04:33,Robert Hicks,Chat,0.24,180
+69,Ticket Opened,2025-03-03 02:08:35,Kelli Wolf,Email,0.83,119
+69,Investigating,2025-03-03 02:23:35,Christopher Stewart,Chat,-0.62,112
+69,Investigating,2025-03-03 02:38:35,Megan Kelly,Chat,0.43,46
+69,Resolved,2025-03-03 02:53:35,Valerie Stokes,Phone,0.66,135
+70,Resolved,2025-02-15 08:53:36,Jessica Smith,Email,0.97,157
+70,Ticket Opened,2025-02-15 09:08:36,Sarah Harper,Chat,-0.17,145
+70,Investigating,2025-02-15 09:23:36,Destiny Smith,Email,0.71,110
+71,Ticket Opened,2025-04-02 08:57:21,Taylor Blake,Phone,0.25,76
+71,Ticket Opened,2025-04-02 09:12:21,Mark Berry,Chat,0.58,96
+72,Investigating,2025-03-17 12:55:03,Susan Zimmerman,Chat,-0.67,6
+72,Resolved,2025-03-17 13:10:03,Melissa Hodges,Chat,-0.32,36
+72,Ticket Opened,2025-03-17 13:25:03,Benjamin Sutton III,Chat,-0.17,101
+72,Investigating,2025-03-17 13:40:03,Susan Gonzales,Chat,-0.44,106
+73,Investigating,2025-02-10 15:03:40,James Singh,Phone,0.12,28
+73,Investigating,2025-02-10 15:18:40,Kelly Smith,Phone,0.38,110
+74,Investigating,2025-03-24 05:58:15,Brian Gonzalez,Chat,-0.05,55
+74,Ticket Opened,2025-03-24 06:13:15,Sarah Patel,Chat,0.08,88
+74,Investigating,2025-03-24 06:28:15,Mr. Timothy Hensley,Phone,-0.25,73
+75,Investigating,2025-01-09 17:07:19,Katrina Blackwell,Chat,0.68,24
+75,Resolved,2025-01-09 17:22:19,Dr. Gregory Wright,Email,-0.04,173
+75,Resolved,2025-01-09 17:37:19,Tricia Lopez,Email,0.89,144
+76,Resolved,2025-02-10 04:36:12,Mary Serrano,Chat,0.42,42
+76,Investigating,2025-02-10 04:51:12,Robert Powell,Phone,-0.78,155
+76,Investigating,2025-02-10 05:06:12,Lindsey Payne,Chat,-0.77,126
+76,Resolved,2025-02-10 05:21:12,Ernest Bowen,Chat,-0.28,28
+77,Ticket Opened,2025-03-13 07:40:07,Jessica Sanchez,Phone,0.03,126
+77,Resolved,2025-03-13 07:55:07,Mrs. Sarah Palmer MD,Phone,-0.64,101
+78,Ticket Opened,2025-02-28 13:44:54,Michelle Fisher,Phone,-0.32,28
+78,Ticket Opened,2025-02-28 13:59:54,Christina Welch,Email,0.67,168
+78,Resolved,2025-02-28 14:14:54,Travis Curry,Email,0.44,155
+79,Investigating,2025-04-06 17:17:59,Katherine Rowe,Chat,0.61,70
+79,Ticket Opened,2025-04-06 17:32:59,Gregory Schultz,Email,-0.81,55
+79,Investigating,2025-04-06 17:47:59,Cheryl Moore MD,Chat,-0.01,82
+80,Resolved,2025-03-05 08:35:17,Jessica Lucas,Phone,-0.83,131
+80,Ticket Opened,2025-03-05 08:50:17,Theodore Lynch,Email,-0.81,105
+81,Investigating,2025-01-20 10:05:28,Richard Reeves,Chat,0.84,151
+81,Ticket Opened,2025-01-20 10:20:28,Darrell Vega,Email,0.3,165
+81,Resolved,2025-01-20 10:35:28,Francisco Potts,Phone,-0.33,121
+81,Investigating,2025-01-20 10:50:28,Eduardo Jordan,Phone,-0.48,144
+82,Resolved,2025-01-12 11:26:36,Michael Roy,Chat,0.6,119
+82,Resolved,2025-01-12 11:41:36,Bradley Thompson,Email,0.33,44
+82,Ticket Opened,2025-01-12 11:56:36,Zachary Adams,Email,-0.38,111
+83,Ticket Opened,2025-01-01 22:37:14,Joanna Reed,Email,-0.63,110
+83,Ticket Opened,2025-01-01 22:52:14,Angela Pearson,Email,0.06,121
+84,Investigating,2025-03-16 09:25:28,Thomas James,Email,-0.25,174
+84,Ticket Opened,2025-03-16 09:40:28,Tammy Santos,Email,0.78,98
+84,Resolved,2025-03-16 09:55:28,James Lee,Email,0.73,135
+84,Investigating,2025-03-16 10:10:28,Michael Wolf,Email,0.4,47
+85,Investigating,2025-03-03 15:11:16,Tina Cobb,Email,0.92,95
+85,Investigating,2025-03-03 15:26:16,Benjamin Barber,Email,-0.58,166
+86,Resolved,2025-02-06 18:57:56,Beth Singleton,Phone,-0.88,19
+86,Investigating,2025-02-06 19:12:56,Aimee Brown,Email,0.19,67
+86,Resolved,2025-02-06 19:27:56,Tammy Mann,Email,-0.02,105
+87,Ticket Opened,2025-03-27 20:58:17,Marco Reilly,Email,0.69,144
+87,Ticket Opened,2025-03-27 21:13:17,Jerry Santos,Email,-0.85,15
+88,Ticket Opened,2025-02-09 15:18:41,Kevin Fletcher,Email,-0.16,149
+88,Investigating,2025-02-09 15:33:41,Christopher Avila,Chat,-0.44,150
+88,Resolved,2025-02-09 15:48:41,Robert King,Phone,0.05,88
+88,Investigating,2025-02-09 16:03:41,Andrew Martin,Chat,-0.51,106
+89,Resolved,2025-03-10 06:56:48,Joseph Pitts,Phone,-0.87,12
+89,Investigating,2025-03-10 07:11:48,Megan Martinez,Phone,-0.4,121
+90,Ticket Opened,2025-01-26 10:52:00,Mariah Walker,Chat,0.29,65
+90,Resolved,2025-01-26 11:07:00,Catherine Jones,Chat,-0.64,136
+90,Ticket Opened,2025-01-26 11:22:00,Kimberly Burns,Phone,0.81,18
+91,Resolved,2025-01-01 14:39:27,Kelsey Ramsey,Email,-0.97,41
+91,Investigating,2025-01-01 14:54:27,Sean Kane,Email,-0.93,127
+91,Investigating,2025-01-01 15:09:27,Rodney Barron,Phone,-0.03,26
+91,Resolved,2025-01-01 15:24:27,Alexis Collier,Email,-0.6,17
+92,Investigating,2025-03-31 06:51:50,William Lucas,Chat,-0.05,173
+92,Resolved,2025-03-31 07:06:50,Wendy Byrd,Phone,-0.78,45
+92,Resolved,2025-03-31 07:21:50,Donald Page,Email,-0.51,21
+93,Resolved,2025-04-08 12:14:13,Antonio Anderson,Chat,-0.69,19
+93,Ticket Opened,2025-04-08 12:29:13,Sharon Stark,Email,-0.32,167
+93,Ticket Opened,2025-04-08 12:44:13,Regina Bird,Phone,0.72,59
+93,Resolved,2025-04-08 12:59:13,Andrew Alexander,Email,-0.98,73
+94,Investigating,2025-01-07 07:32:50,Edward Cook,Chat,-0.51,116
+94,Ticket Opened,2025-01-07 07:47:50,Erin King,Email,-0.13,165
+95,Investigating,2025-02-19 12:34:07,Russell Hunt,Email,0.8,77
+95,Ticket Opened,2025-02-19 12:49:07,Jason Riley,Chat,-0.13,55
+95,Ticket Opened,2025-02-19 13:04:07,Brenda Turner,Chat,-0.5,30
+96,Ticket Opened,2025-02-25 14:45:21,Charles Dawson,Email,-0.84,56
+96,Ticket Opened,2025-02-25 15:00:21,Shane Caldwell,Email,0.26,168
+96,Resolved,2025-02-25 15:15:21,Jessica Cook MD,Phone,-0.39,12
+97,Ticket Opened,2025-01-17 00:03:28,Michael Mcclain,Chat,-0.64,69
+97,Resolved,2025-01-17 00:18:28,Mike Pierce,Email,-0.62,27
+97,Ticket Opened,2025-01-17 00:33:28,Debra Wagner,Email,-0.28,90
+98,Ticket Opened,2025-02-07 13:20:36,Lauren King,Chat,0.43,139
+98,Resolved,2025-02-07 13:35:36,Craig Frazier,Email,-0.21,7
+99,Resolved,2025-01-02 17:05:28,Robert Davis,Email,-0.74,99
+99,Resolved,2025-01-02 17:20:28,Christopher Williams,Chat,0.14,69
+100,Ticket Opened,2025-02-21 20:26:24,Andrea Davis,Chat,0.34,137
+100,Resolved,2025-02-21 20:41:24,Donna Simon,Phone,-0.01,40
+100,Investigating,2025-02-21 20:56:24,Jenny Price,Phone,0.6,130
+100,Investigating,2025-02-21 21:11:24,Danielle Forbes,Email,-0.82,43
+101,Investigating,2025-04-10 02:03:01,Laura Hernandez,Phone,0.25,58
+101,Resolved,2025-04-10 02:18:01,Patricia Benjamin,Chat,-0.89,49
+101,Resolved,2025-04-10 02:33:01,Janet Andrews,Phone,-0.42,22
+101,Investigating,2025-04-10 02:48:01,Kenneth Cox,Phone,-0.73,170
+102,Ticket Opened,2025-03-12 16:19:37,Michael White,Phone,-0.41,54
+102,Resolved,2025-03-12 16:34:37,Heather Turner,Phone,-0.35,106
+102,Investigating,2025-03-12 16:49:37,Dawn Perkins,Phone,0.38,124
+103,Resolved,2025-01-16 22:13:57,Alexander Russell,Email,0.19,172
+103,Ticket Opened,2025-01-16 22:28:57,Richard Lee,Email,-0.66,117
+104,Ticket Opened,2025-02-03 21:30:23,Kristin Hill,Email,0.79,58
+104,Resolved,2025-02-03 21:45:23,Amanda Vaughn,Phone,-0.1,103
+104,Investigating,2025-02-03 22:00:23,Jesse Everett,Phone,0.57,124
+105,Investigating,2025-03-17 18:02:58,Alejandro Kirby,Phone,0.01,117
+105,Investigating,2025-03-17 18:17:58,Mary Lewis,Chat,-0.76,100
+105,Resolved,2025-03-17 18:32:58,Monica Sims,Phone,-0.45,115
+106,Ticket Opened,2025-01-17 21:03:01,Chelsea Rich,Phone,0.69,33
+106,Resolved,2025-01-17 21:18:01,Christina Brooks,Phone,-0.86,135
+106,Ticket Opened,2025-01-17 21:33:01,Jessica Ho,Chat,0.77,97
+107,Ticket Opened,2025-02-12 00:21:06,Thomas Robinson,Chat,0.4,142
+107,Ticket Opened,2025-02-12 00:36:06,Corey Wright,Chat,0.02,54
+107,Resolved,2025-02-12 00:51:06,Julie Harris,Phone,-0.83,117
+107,Ticket Opened,2025-02-12 01:06:06,Philip Scott MD,Chat,-0.17,43
+108,Investigating,2025-04-06 06:52:48,Stephanie Macias DDS,Phone,-0.19,178
+108,Investigating,2025-04-06 07:07:48,Sandra Krause,Chat,0.38,67
+108,Resolved,2025-04-06 07:22:48,Virginia Harmon,Chat,-0.62,124
+108,Investigating,2025-04-06 07:37:48,Emily Smith,Chat,-0.08,90
+109,Investigating,2025-04-07 03:30:14,Deborah Vazquez,Phone,-0.28,175
+109,Resolved,2025-04-07 03:45:14,Autumn Thompson,Email,0.41,32
+109,Investigating,2025-04-07 04:00:14,Alexandra Dixon,Chat,0.96,108
+110,Investigating,2025-04-09 12:05:38,Matthew Ramirez,Chat,0.13,111
+110,Investigating,2025-04-09 12:20:38,Daniel Young,Email,-0.47,13
+110,Resolved,2025-04-09 12:35:38,Peter Mitchell,Email,-0.96,127
+111,Resolved,2025-02-21 03:32:38,Heather Baxter,Phone,0.27,79
+111,Investigating,2025-02-21 03:47:38,Steven Ortiz,Phone,0.2,30
+112,Investigating,2025-01-05 16:08:17,Natalie Meyer,Email,0.49,37
+112,Resolved,2025-01-05 16:23:17,Ryan Ruiz,Email,-0.3,170
+112,Investigating,2025-01-05 16:38:17,Sarah Lee,Email,0.43,53
+112,Investigating,2025-01-05 16:53:17,John Smith,Email,0.23,53
+113,Ticket Opened,2025-03-30 22:15:46,Dr. Haley Cortez,Chat,0.4,33
+113,Ticket Opened,2025-03-30 22:30:46,Dr. Robin Cooper,Email,0.47,123
+114,Investigating,2025-01-03 02:11:39,Abigail Carter,Phone,0.77,75
+114,Ticket Opened,2025-01-03 02:26:39,Anthony Lambert,Chat,-0.21,119
+114,Ticket Opened,2025-01-03 02:41:39,Robert Sims,Chat,0.28,43
+115,Investigating,2025-04-07 06:25:56,Crystal Rogers,Chat,-0.11,83
+115,Investigating,2025-04-07 06:40:56,Kevin Ward,Phone,0.41,73
+115,Ticket Opened,2025-04-07 06:55:56,Cindy Alvarado,Email,-0.7,6
+116,Investigating,2025-02-01 19:28:31,Kevin Garrison,Chat,0.58,126
+116,Resolved,2025-02-01 19:43:31,Shawn Lopez,Chat,0.33,109
+116,Ticket Opened,2025-02-01 19:58:31,Brandon Robertson,Email,0.91,162
+116,Ticket Opened,2025-02-01 20:13:31,Nicole Stokes DDS,Phone,-0.83,65
+117,Resolved,2025-01-18 05:59:06,John Lloyd,Phone,0.16,107
+117,Investigating,2025-01-18 06:14:06,Rhonda Perez,Email,-0.07,85
+117,Investigating,2025-01-18 06:29:06,Dawn Salazar,Email,0.11,11
+118,Ticket Opened,2025-03-08 00:42:32,Matthew Chen,Phone,-0.02,8
+118,Investigating,2025-03-08 00:57:32,Jacob Jackson,Phone,0.61,161
+118,Ticket Opened,2025-03-08 01:12:32,Kristin Dunlap,Chat,-0.54,12
+119,Investigating,2025-03-15 04:44:33,John Brown PhD,Chat,-0.86,62
+119,Resolved,2025-03-15 04:59:33,Richard Berg,Email,-0.23,42
+119,Investigating,2025-03-15 05:14:33,Cheyenne Harrington,Chat,0.59,96
+119,Investigating,2025-03-15 05:29:33,William Vega,Chat,-0.0,70
+120,Ticket Opened,2025-02-25 13:50:11,Joseph Greene,Phone,-0.94,70
+120,Ticket Opened,2025-02-25 14:05:11,John Foster,Chat,0.13,114
+120,Ticket Opened,2025-02-25 14:20:11,Theodore Vaughn,Phone,-0.15,31
+120,Investigating,2025-02-25 14:35:11,Crystal Ho,Email,-0.99,83
+121,Investigating,2025-02-14 02:53:20,Kimberly Russo,Email,-0.72,155
+121,Resolved,2025-02-14 03:08:20,Thomas Mcneil,Phone,0.91,37
+121,Ticket Opened,2025-02-14 03:23:20,Vanessa Hunt,Chat,0.33,128
+121,Ticket Opened,2025-02-14 03:38:20,Jill Roberts,Phone,0.53,115
+122,Investigating,2025-01-08 15:14:51,Michael Oconnor,Email,-0.77,94
+122,Investigating,2025-01-08 15:29:51,David Carroll,Email,-0.21,174
+122,Investigating,2025-01-08 15:44:51,Michelle Cook,Chat,-0.2,64
+123,Investigating,2025-03-30 11:13:26,Sydney Savage,Phone,0.75,53
+123,Resolved,2025-03-30 11:28:26,David White,Email,0.25,50
+123,Investigating,2025-03-30 11:43:26,Jeffrey Davis,Phone,0.58,61
+124,Investigating,2025-01-20 20:49:29,Jonathan Davis,Phone,0.58,82
+124,Ticket Opened,2025-01-20 21:04:29,Michael Payne,Email,0.63,102
+124,Investigating,2025-01-20 21:19:29,Mia Smith,Chat,-0.95,73
+124,Resolved,2025-01-20 21:34:29,Denise Coffey,Chat,0.29,133
+125,Investigating,2025-03-21 11:19:39,Sara Richardson,Chat,0.95,165
+125,Resolved,2025-03-21 11:34:39,Kristen Ramirez,Phone,-0.88,73
+125,Investigating,2025-03-21 11:49:39,Willie Mack,Chat,-0.05,39
+126,Investigating,2025-01-01 02:03:27,Patricia White,Email,0.02,157
+126,Investigating,2025-01-01 02:18:27,Christina Banks,Chat,0.94,50
+126,Resolved,2025-01-01 02:33:27,Joshua Moore,Email,0.65,147
+126,Investigating,2025-01-01 02:48:27,Kathleen Bailey,Chat,0.02,57
+127,Resolved,2025-03-17 16:23:21,Charles Davis,Chat,-0.98,87
+127,Ticket Opened,2025-03-17 16:38:21,John Jackson,Email,0.95,171
+127,Investigating,2025-03-17 16:53:21,Erin Foley,Phone,-0.92,15
+128,Ticket Opened,2025-02-15 21:17:29,Erik Greene,Phone,-0.73,77
+128,Investigating,2025-02-15 21:32:29,Tiffany Allen,Email,0.49,97
+129,Ticket Opened,2025-02-09 13:15:32,Donald Johnson,Email,0.26,85
+129,Ticket Opened,2025-02-09 13:30:32,Jerry Henderson,Email,-0.41,67
+129,Ticket Opened,2025-02-09 13:45:32,Amy Avila,Phone,-0.81,69
+130,Investigating,2025-01-07 07:27:13,Christopher Edwards,Phone,-0.1,132
+130,Resolved,2025-01-07 07:42:13,Kristie Peters,Phone,0.81,51
+130,Investigating,2025-01-07 07:57:13,Nancy Conner,Phone,-0.54,87
+130,Investigating,2025-01-07 08:12:13,Steven Warren,Email,-0.1,113
+131,Investigating,2025-03-12 17:30:23,William Zuniga,Chat,0.43,6
+131,Resolved,2025-03-12 17:45:23,Erica Blanchard,Chat,0.81,9
+132,Resolved,2025-03-16 05:35:11,John Martin,Chat,0.56,78
+132,Resolved,2025-03-16 05:50:11,Danielle Vaughn,Chat,-0.88,12
+132,Resolved,2025-03-16 06:05:11,Caroline Weaver,Email,-0.52,105
+132,Ticket Opened,2025-03-16 06:20:11,Latoya Johnson,Email,-0.51,162
+133,Ticket Opened,2025-02-08 15:07:47,Shawn Murphy,Chat,0.89,47
+133,Ticket Opened,2025-02-08 15:22:47,Tiffany Cuevas,Phone,0.01,22
+133,Resolved,2025-02-08 15:37:47,Kyle Garcia,Phone,-0.6,147
+134,Investigating,2025-04-06 19:15:48,Alexis Rivera,Chat,-0.82,14
+134,Ticket Opened,2025-04-06 19:30:48,Susan Pearson,Email,-0.91,69
+134,Ticket Opened,2025-04-06 19:45:48,Pamela Fields,Email,-0.08,133
+134,Ticket Opened,2025-04-06 20:00:48,Kimberly Casey,Email,0.57,141
+135,Resolved,2025-01-11 21:44:30,Lisa Robinson,Email,0.17,137
+135,Ticket Opened,2025-01-11 21:59:30,Cole Ellis,Email,-0.25,96
+136,Resolved,2025-03-08 15:33:29,Daniel Madden,Email,0.17,19
+136,Ticket Opened,2025-03-08 15:48:29,Ronald Barrett,Phone,0.02,92
+136,Ticket Opened,2025-03-08 16:03:29,Anne Medina,Phone,0.01,155
+136,Investigating,2025-03-08 16:18:29,Daniel Turner,Phone,0.29,34
+137,Ticket Opened,2025-01-25 01:51:59,Patrick Horne,Chat,-0.06,54
+137,Ticket Opened,2025-01-25 02:06:59,Scott Adams,Email,-0.54,109
+137,Investigating,2025-01-25 02:21:59,Brandon Saunders Jr.,Phone,0.03,141
+137,Resolved,2025-01-25 02:36:59,Steven Hodges,Chat,-0.09,150
+138,Resolved,2025-02-25 17:28:43,Amanda Allen,Email,-0.49,149
+138,Ticket Opened,2025-02-25 17:43:43,Andrew Dean,Email,0.4,51
+138,Resolved,2025-02-25 17:58:43,Debbie Simpson,Email,-0.18,177
+138,Ticket Opened,2025-02-25 18:13:43,Larry Ruiz,Phone,-0.14,128
+139,Ticket Opened,2025-03-04 21:38:44,Adam Lang,Phone,-0.3,125
+139,Ticket Opened,2025-03-04 21:53:44,Matthew Lee,Phone,-0.36,150
+140,Resolved,2025-01-09 12:24:07,Parker Sweeney,Chat,0.71,42
+140,Ticket Opened,2025-01-09 12:39:07,Cassandra Larson,Phone,0.95,92
+140,Investigating,2025-01-09 12:54:07,Lauren Alvarez,Chat,-0.17,177
+140,Investigating,2025-01-09 13:09:07,Alvin Lutz,Chat,0.68,73
+141,Resolved,2025-01-12 15:24:10,Danielle Oneal,Email,-0.21,43
+141,Ticket Opened,2025-01-12 15:39:10,Crystal Watkins,Chat,0.16,26
+141,Ticket Opened,2025-01-12 15:54:10,Debra Gomez,Chat,-0.24,169
+141,Ticket Opened,2025-01-12 16:09:10,Margaret Pacheco,Email,-0.45,19
+142,Resolved,2025-03-10 14:59:29,Patricia Howard,Phone,-0.88,89
+142,Ticket Opened,2025-03-10 15:14:29,Jane Leonard,Email,0.54,99
+143,Resolved,2025-03-12 15:29:02,Anne Smith,Email,0.74,42
+143,Ticket Opened,2025-03-12 15:44:02,Scott Terrell,Email,-0.31,82
+144,Resolved,2025-01-05 13:25:00,Cathy Williamson,Email,0.68,57
+144,Ticket Opened,2025-01-05 13:40:00,Scott Cruz,Chat,0.15,78
+144,Resolved,2025-01-05 13:55:00,Stephanie Freeman,Email,-0.16,100
+145,Investigating,2025-02-23 20:42:28,Michael Lee,Email,-0.59,35
+145,Investigating,2025-02-23 20:57:28,Kristine Love,Chat,0.37,76
+146,Investigating,2025-02-06 07:58:21,Tiffany Allen,Chat,0.91,167
+146,Ticket Opened,2025-02-06 08:13:21,Ashley Collins,Email,-0.64,104
+146,Resolved,2025-02-06 08:28:21,Bobby Jackson,Email,-0.26,82
+146,Investigating,2025-02-06 08:43:21,Chad Alvarez,Phone,-0.85,98
+147,Investigating,2025-03-20 20:10:11,Dave White,Phone,0.61,168
+147,Resolved,2025-03-20 20:25:11,Matthew Thompson,Phone,0.69,102
+147,Ticket Opened,2025-03-20 20:40:11,Lindsey Johnson,Chat,0.04,22
+148,Ticket Opened,2025-01-14 06:00:49,Debbie Ware,Email,0.16,120
+148,Investigating,2025-01-14 06:15:49,Janet Martinez,Chat,-0.56,112
+148,Investigating,2025-01-14 06:30:49,John Henry,Phone,-0.34,120
+149,Resolved,2025-03-18 02:07:33,Angela Hernandez,Email,0.13,135
+149,Ticket Opened,2025-03-18 02:22:33,Erin Harmon,Phone,0.36,60
+150,Resolved,2025-03-05 17:47:53,Anthony Gross,Phone,-0.71,78
+150,Investigating,2025-03-05 18:02:53,Amanda Castillo,Email,0.23,146
+150,Investigating,2025-03-05 18:17:53,Anthony Walker,Chat,0.31,76
+151,Ticket Opened,2025-02-28 03:03:55,Morgan Mendez,Chat,-0.82,156
+151,Investigating,2025-02-28 03:18:55,Kathryn Erickson,Phone,-0.48,171
+151,Investigating,2025-02-28 03:33:55,April Thomas,Chat,-0.73,97
+151,Investigating,2025-02-28 03:48:55,Heidi Carter,Phone,0.15,152
+152,Ticket Opened,2025-02-25 15:04:02,Timothy Campbell,Phone,0.83,170
+152,Resolved,2025-02-25 15:19:02,Rebecca Solomon,Email,-0.01,164
+153,Investigating,2025-03-11 23:11:23,Christine Walker,Chat,-0.61,15
+153,Investigating,2025-03-11 23:26:23,Henry Salazar,Chat,0.62,100
+153,Investigating,2025-03-11 23:41:23,Kathryn Smith,Chat,-0.33,15
+154,Ticket Opened,2025-03-30 22:00:00,John Horne,Chat,-0.18,122
+154,Investigating,2025-03-30 22:15:00,Jaclyn Cain,Chat,0.85,63
+154,Investigating,2025-03-30 22:30:00,Julie Perkins,Email,0.78,7
+155,Investigating,2025-01-29 13:41:25,Jordan Webb,Chat,0.97,30
+155,Investigating,2025-01-29 13:56:25,Tracey Hill,Chat,0.97,118
+155,Resolved,2025-01-29 14:11:25,Tiffany Rodriguez,Phone,0.49,174
+155,Investigating,2025-01-29 14:26:25,Micheal Martinez,Chat,0.29,5
+156,Resolved,2025-03-10 04:02:44,Suzanne Mitchell,Chat,-0.8,7
+156,Resolved,2025-03-10 04:17:44,Christopher Montoya,Phone,0.64,112
+157,Resolved,2025-03-28 15:05:40,Michael Best,Chat,-0.49,86
+157,Ticket Opened,2025-03-28 15:20:40,Claudia Ortiz,Chat,-0.21,14
+158,Resolved,2025-02-08 21:45:00,George Ryan,Phone,-0.33,37
+158,Resolved,2025-02-08 22:00:00,Heather Ellison,Chat,-0.04,163
+158,Ticket Opened,2025-02-08 22:15:00,Patricia Scott,Phone,0.75,53
+159,Resolved,2025-03-15 18:34:22,Emily Macdonald,Phone,0.67,130
+159,Investigating,2025-03-15 18:49:22,Danielle Smith,Phone,0.05,163
+160,Resolved,2025-02-06 17:31:06,Robert Shannon,Phone,-0.81,48
+160,Investigating,2025-02-06 17:46:06,Janet Carr,Chat,-0.57,31
+160,Resolved,2025-02-06 18:01:06,Bethany Thompson,Chat,-0.73,175
+160,Ticket Opened,2025-02-06 18:16:06,Jeffrey Newman,Phone,-0.94,59
+161,Resolved,2025-02-14 05:21:44,Michael Little,Phone,-0.33,98
+161,Investigating,2025-02-14 05:36:44,Adam Taylor,Phone,-0.65,17
+162,Resolved,2025-02-07 00:01:52,Steven Murray,Chat,0.33,100
+162,Investigating,2025-02-07 00:16:52,Angel Johnson,Chat,0.21,105
+163,Resolved,2025-02-16 10:53:10,Mr. Joseph Patterson,Phone,0.67,112
+163,Resolved,2025-02-16 11:08:10,Patricia Miller,Chat,0.87,60
+163,Investigating,2025-02-16 11:23:10,Joyce Melton,Phone,-0.65,75
+163,Ticket Opened,2025-02-16 11:38:10,Tim White,Phone,0.71,26
+164,Ticket Opened,2025-03-31 10:43:56,Connor Meyers,Phone,0.42,147
+164,Ticket Opened,2025-03-31 10:58:56,Deanna Hanson,Chat,0.47,109
+164,Ticket Opened,2025-03-31 11:13:56,Travis Gentry,Phone,0.47,179
+165,Resolved,2025-03-09 00:22:07,James Mccoy,Email,0.12,7
+165,Resolved,2025-03-09 00:37:07,Audrey Wilson,Email,-0.74,165
+166,Investigating,2025-01-06 06:06:41,Andrew Aguilar,Email,-0.56,112
+166,Ticket Opened,2025-01-06 06:21:41,Philip Kelly,Chat,-0.17,134
+166,Ticket Opened,2025-01-06 06:36:41,Jason Lowe,Email,-0.26,67
+167,Investigating,2025-02-15 16:47:10,Nancy Mitchell,Email,0.75,59
+167,Resolved,2025-02-15 17:02:10,Alexander Arnold,Phone,0.87,150
+167,Ticket Opened,2025-02-15 17:17:10,Dawn Skinner,Phone,-0.57,156
+168,Resolved,2025-01-21 18:47:50,Connor Skinner,Chat,-0.18,50
+168,Ticket Opened,2025-01-21 19:02:50,Christopher Goodman,Phone,-0.36,82
+168,Investigating,2025-01-21 19:17:50,Larry Miller Jr.,Chat,0.11,15
+169,Resolved,2025-01-29 22:21:12,Micheal Nelson,Email,0.96,85
+169,Investigating,2025-01-29 22:36:12,Christine Herrera,Email,0.79,139
+169,Resolved,2025-01-29 22:51:12,Brent Bray,Phone,0.9,14
+170,Resolved,2025-04-06 11:53:18,Shawn Allen,Chat,0.55,176
+170,Ticket Opened,2025-04-06 12:08:18,John Moreno,Phone,-0.74,103
+171,Investigating,2025-01-07 10:28:06,Amanda Carr,Phone,0.59,91
+171,Ticket Opened,2025-01-07 10:43:06,Richard Williams,Email,0.05,171
+172,Ticket Opened,2025-04-02 11:38:20,Kathleen Watkins,Phone,-0.76,139
+172,Investigating,2025-04-02 11:53:20,Yesenia Kline,Email,0.75,51
+172,Investigating,2025-04-02 12:08:20,Jonathan Mccarthy,Phone,-0.91,161
+172,Resolved,2025-04-02 12:23:20,Joseph Crawford,Phone,-0.02,14
+173,Ticket Opened,2025-01-05 18:18:23,Erin Escobar,Chat,-0.39,60
+173,Resolved,2025-01-05 18:33:23,Joseph Stephenson,Phone,0.99,40
+174,Investigating,2025-03-05 23:51:53,Justin Lewis,Email,0.66,133
+174,Ticket Opened,2025-03-06 00:06:53,Daniel Collins,Chat,-0.51,23
+174,Ticket Opened,2025-03-06 00:21:53,Cameron Smith,Phone,0.03,86
+174,Investigating,2025-03-06 00:36:53,Mr. Ricky Gomez,Email,0.27,136
+175,Investigating,2025-01-07 12:28:02,Jessica Hernandez,Phone,-0.08,141
+175,Ticket Opened,2025-01-07 12:43:02,Theresa Johnson,Chat,0.29,79
+175,Resolved,2025-01-07 12:58:02,Donna Moore,Phone,-0.92,127
+176,Ticket Opened,2025-02-11 15:58:06,Daniel Hurst,Phone,-0.09,73
+176,Ticket Opened,2025-02-11 16:13:06,Nathan Davis,Email,-0.74,80
+177,Investigating,2025-01-24 02:18:29,Kaitlyn Harrington,Chat,-0.86,68
+177,Investigating,2025-01-24 02:33:29,John Burgess,Email,-0.33,30
+177,Investigating,2025-01-24 02:48:29,Ryan Austin,Chat,0.44,47
+178,Ticket Opened,2025-01-08 03:00:51,Lori Gardner,Chat,-0.72,139
+178,Resolved,2025-01-08 03:15:51,John Brown,Chat,-0.55,118
+178,Resolved,2025-01-08 03:30:51,Brianna Davis,Chat,-0.88,29
+179,Ticket Opened,2025-03-17 13:19:39,Mr. Benjamin Weaver,Email,0.63,175
+179,Ticket Opened,2025-03-17 13:34:39,Alicia Walters,Chat,0.47,56
+180,Investigating,2025-01-11 12:22:37,Brian Washington,Phone,0.42,122
+180,Investigating,2025-01-11 12:37:37,Matthew Whitney,Email,-0.01,152
+180,Investigating,2025-01-11 12:52:37,Tabitha Carpenter,Phone,0.8,132
+181,Resolved,2025-02-11 13:19:37,Troy Perez,Email,-0.62,135
+181,Resolved,2025-02-11 13:34:37,Kristie Willis,Phone,-0.51,92
+182,Ticket Opened,2025-01-05 03:43:31,Cameron Greene,Chat,-0.33,176
+182,Ticket Opened,2025-01-05 03:58:31,Brianna Gonzalez,Chat,-0.42,105
+182,Investigating,2025-01-05 04:13:31,Lance Copeland,Chat,-0.54,21
+182,Ticket Opened,2025-01-05 04:28:31,Monica Aguirre,Email,0.98,108
+183,Ticket Opened,2025-03-12 21:58:47,Stephanie Gomez,Phone,-0.4,133
+183,Ticket Opened,2025-03-12 22:13:47,Whitney Mcclure,Phone,-0.4,28
+183,Investigating,2025-03-12 22:28:47,Robert Atkins,Email,-0.85,171
+184,Investigating,2025-02-02 05:13:02,Courtney Wilson,Email,0.48,90
+184,Ticket Opened,2025-02-02 05:28:02,Hannah Barnett,Phone,-0.79,121
+184,Investigating,2025-02-02 05:43:02,Anne Salinas,Phone,0.78,21
+185,Investigating,2025-02-18 18:19:55,Kathryn Lewis,Chat,0.55,32
+185,Ticket Opened,2025-02-18 18:34:55,William Perez,Phone,-0.22,77
+185,Investigating,2025-02-18 18:49:55,Douglas Hunt,Chat,0.01,137
+186,Resolved,2025-03-21 18:48:42,Chad Smith,Chat,-0.44,146
+186,Investigating,2025-03-21 19:03:42,Calvin Richards,Phone,0.1,177
+186,Investigating,2025-03-21 19:18:42,Lori Reyes,Email,-0.66,25
+187,Resolved,2025-01-03 08:21:30,Susan Smith,Phone,-0.77,142
+187,Ticket Opened,2025-01-03 08:36:30,Shane Brooks,Chat,0.11,31
+187,Resolved,2025-01-03 08:51:30,Kathleen Murray,Email,0.5,98
+188,Resolved,2025-02-28 05:43:07,April Skinner,Phone,0.9,138
+188,Resolved,2025-02-28 05:58:07,Cameron Hanson,Chat,0.65,157
+188,Ticket Opened,2025-02-28 06:13:07,Ronald Terry,Phone,-0.05,162
+189,Resolved,2025-03-24 12:33:14,Lindsey Goodman,Phone,0.74,16
+189,Investigating,2025-03-24 12:48:14,Kevin Green,Email,-0.33,95
+189,Ticket Opened,2025-03-24 13:03:14,Henry Richardson,Chat,-0.25,71
+190,Ticket Opened,2025-01-17 10:29:19,Alicia Smith,Email,-0.41,134
+190,Investigating,2025-01-17 10:44:19,Suzanne Thomas,Chat,-0.97,20
+191,Resolved,2025-03-19 21:49:09,Kelly Best,Email,0.47,59
+191,Resolved,2025-03-19 22:04:09,Tiffany Giles,Phone,0.55,54
+192,Resolved,2025-03-11 19:06:27,Steven Carter,Phone,0.41,59
+192,Ticket Opened,2025-03-11 19:21:27,Scott Potts,Chat,-0.04,39
+192,Ticket Opened,2025-03-11 19:36:27,Corey Martinez,Chat,0.64,160
+193,Investigating,2025-01-05 05:32:22,Ruth Fisher,Chat,-0.37,89
+193,Resolved,2025-01-05 05:47:22,Taylor Willis,Phone,0.45,88
+193,Ticket Opened,2025-01-05 06:02:22,Veronica Green,Email,0.64,47
+193,Ticket Opened,2025-01-05 06:17:22,John Livingston,Email,0.02,84
+194,Investigating,2025-01-27 13:37:17,Anthony Ward,Chat,-0.97,30
+194,Resolved,2025-01-27 13:52:17,Michelle Williams,Chat,0.04,81
+194,Ticket Opened,2025-01-27 14:07:17,Daniel Lopez,Chat,-0.48,43
+194,Ticket Opened,2025-01-27 14:22:17,Miss Nicole Bailey PhD,Email,-0.6,8
+195,Investigating,2025-03-05 05:58:58,Sean Weaver,Email,0.19,29
+195,Ticket Opened,2025-03-05 06:13:58,Tammy Novak,Chat,-0.82,5
+196,Resolved,2025-03-16 00:03:13,Hannah Hester,Phone,0.45,56
+196,Ticket Opened,2025-03-16 00:18:13,John Cobb,Phone,-0.16,151
+197,Resolved,2025-03-19 08:06:53,Angela Tran,Email,0.59,139
+197,Investigating,2025-03-19 08:21:53,Megan Neal,Phone,0.31,31
+197,Ticket Opened,2025-03-19 08:36:53,Benjamin Raymond,Email,-0.88,53
+198,Ticket Opened,2025-02-28 20:37:58,Peter Spears,Email,-0.08,169
+198,Resolved,2025-02-28 20:52:58,Mary Bates,Email,-0.76,68
+199,Resolved,2025-02-12 03:59:24,James Freeman,Chat,-0.92,101
+199,Resolved,2025-02-12 04:14:24,Rita Dorsey,Chat,0.93,130
+199,Investigating,2025-02-12 04:29:24,Jennifer Haas,Phone,-0.93,84
+199,Investigating,2025-02-12 04:44:24,John Mccoy,Phone,-0.27,45
+200,Resolved,2025-03-04 07:37:19,Tammy Scott,Chat,-0.79,33
+200,Ticket Opened,2025-03-04 07:52:19,Eric Foster,Phone,-0.43,6
+200,Ticket Opened,2025-03-04 08:07:19,Jose Powell,Phone,0.08,111
+200,Ticket Opened,2025-03-04 08:22:19,Samantha Ramsey,Email,0.53,139
